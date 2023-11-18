@@ -15,7 +15,7 @@ function App() {
       <div className="w-full h-screen overflow-hidden ">
         <div className="relative w-full h-full ">
           <img
-            className="object-cover w-full h-screen transition-all "
+            className="object-cover bg-top w-full h-screen transition-all "
             src={background}
             alt=""
           ></img>
